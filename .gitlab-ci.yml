@@ -1,0 +1,54 @@
+# 阶段
+stages:
+  - install
+  - build
+  - deploy
+
+cache:
+  paths:
+    - node_modules/
+
+# 安装依赖
+install:
+  stage: install
+  # 此处的tags必须填入之前注册时自定的tag
+  tags: 
+    - main
+  only:
+    - main
+  # 执行脚本
+  script:
+   - echo "开始install🔥🔥🔥"
+   - yarn install
+   - echo "完成install🔥🔥🔥"
+
+# 打包项目
+build:
+  stage: build
+  tags: 
+    - main
+  only:
+    - main
+  script: 
+    - echo "开始代码打包💪💪💪"
+    - yarn build
+    - echo "完成代码打包💪💪💪"
+  # 将此阶段产物传递至下一阶段 
+  artifacts: 
+    paths:
+        - dist/
+
+# 部署项目
+deploy:
+  stage: deploy
+  tags: 
+    - main
+  only:
+    - main
+  script: 
+    - echo 连接目标服务器
+    - ssh root@59.110.227.202
+    - echo 进入目标服务器---
+    - echo "开始部署到目标服务器💪💪💪"
+    - rsync -avz --rsh=ssh ${CI_PROJECT_DIR}/dist root@59.110.227.202:/root/vue_test
+    - echo "部署到目标服务器完成💪💪💪"

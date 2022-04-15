@@ -1,0 +1,3838 @@
+{
+  "id": "1793906",
+  "name": "CBIM 基础图标库",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "CBIM全产品公共图标库",
+  "glyphs": [
+    {
+      "icon_id": "24005041",
+      "name": "deliver the package",
+      "font_class": "a-deliverthepackage",
+      "unicode": "e83b",
+      "unicode_decimal": 59451
+    },
+    {
+      "icon_id": "24005042",
+      "name": "deliverable",
+      "font_class": "deliverable",
+      "unicode": "e83c",
+      "unicode_decimal": 59452
+    },
+    {
+      "icon_id": "24005043",
+      "name": "quote",
+      "font_class": "quote",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    },
+    {
+      "icon_id": "24005044",
+      "name": "authorization",
+      "font_class": "authorization",
+      "unicode": "e83e",
+      "unicode_decimal": 59454
+    },
+    {
+      "icon_id": "24005045",
+      "name": "pre-delivery",
+      "font_class": "pre-delivery",
+      "unicode": "e83f",
+      "unicode_decimal": 59455
+    },
+    {
+      "icon_id": "24005046",
+      "name": "label",
+      "font_class": "label",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    },
+    {
+      "icon_id": "24005047",
+      "name": "post deliverables",
+      "font_class": "a-postdeliverables",
+      "unicode": "e841",
+      "unicode_decimal": 59457
+    },
+    {
+      "icon_id": "23957174",
+      "name": "settings-filled",
+      "font_class": "settings-filled1",
+      "unicode": "e837",
+      "unicode_decimal": 59447
+    },
+    {
+      "icon_id": "23957175",
+      "name": "basic information-filled",
+      "font_class": "a-basicinformation-filled",
+      "unicode": "e838",
+      "unicode_decimal": 59448
+    },
+    {
+      "icon_id": "23957176",
+      "name": "preferences-filled",
+      "font_class": "preferences-filled",
+      "unicode": "e839",
+      "unicode_decimal": 59449
+    },
+    {
+      "icon_id": "23957177",
+      "name": "account management-filled",
+      "font_class": "a-accountmanagement-filled",
+      "unicode": "e83a",
+      "unicode_decimal": 59450
+    },
+    {
+      "icon_id": "23474730",
+      "name": "logo-cbim",
+      "font_class": "logo-cbim",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "22815033",
+      "name": "process configuration-end-large",
+      "font_class": "a-processconfiguration-end-large",
+      "unicode": "e832",
+      "unicode_decimal": 59442
+    },
+    {
+      "icon_id": "22815034",
+      "name": "process configuration-parallel-large",
+      "font_class": "a-processconfiguration-parallel-large",
+      "unicode": "e833",
+      "unicode_decimal": 59443
+    },
+    {
+      "icon_id": "22815035",
+      "name": "process configuration-exclusive-large",
+      "font_class": "a-processconfiguration-exclusive-large",
+      "unicode": "e834",
+      "unicode_decimal": 59444
+    },
+    {
+      "icon_id": "22815036",
+      "name": "process configuration-start-large",
+      "font_class": "a-processconfiguration-start-large",
+      "unicode": "e835",
+      "unicode_decimal": 59445
+    },
+    {
+      "icon_id": "22815037",
+      "name": "process configuration-timer-large",
+      "font_class": "a-processconfiguration-timer-large",
+      "unicode": "e836",
+      "unicode_decimal": 59446
+    },
+    {
+      "icon_id": "22808417",
+      "name": "navigator",
+      "font_class": "navigator",
+      "unicode": "e82a",
+      "unicode_decimal": 59434
+    },
+    {
+      "icon_id": "22808418",
+      "name": "process configuration-task",
+      "font_class": "a-processconfiguration-task",
+      "unicode": "e82c",
+      "unicode_decimal": 59436
+    },
+    {
+      "icon_id": "22808419",
+      "name": "process configuration-parallel",
+      "font_class": "a-processconfiguration-parallel",
+      "unicode": "e82d",
+      "unicode_decimal": 59437
+    },
+    {
+      "icon_id": "22808420",
+      "name": "process configuration-path",
+      "font_class": "a-processconfiguration-path",
+      "unicode": "e82e",
+      "unicode_decimal": 59438
+    },
+    {
+      "icon_id": "22808421",
+      "name": "process configuration-end",
+      "font_class": "a-processconfiguration-end",
+      "unicode": "e82f",
+      "unicode_decimal": 59439
+    },
+    {
+      "icon_id": "22808422",
+      "name": "process configuration-timer",
+      "font_class": "a-processconfiguration-timer",
+      "unicode": "e830",
+      "unicode_decimal": 59440
+    },
+    {
+      "icon_id": "22808423",
+      "name": "process configuration-exclusive",
+      "font_class": "a-processconfiguration-exclusive",
+      "unicode": "e831",
+      "unicode_decimal": 59441
+    },
+    {
+      "icon_id": "22775494",
+      "name": "form configuration-single row",
+      "font_class": "a-formconfiguration-singlerow",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "22775495",
+      "name": "form configuration-double row",
+      "font_class": "a-formconfiguration-doublerow",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "22772092",
+      "name": "drag",
+      "font_class": "drag1",
+      "unicode": "e829",
+      "unicode_decimal": 59433
+    },
+    {
+      "icon_id": "22768856",
+      "name": "form configuration-checkbox",
+      "font_class": "a-formconfiguration-checkbox",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "22767165",
+      "name": "form configuration-multi line input box",
+      "font_class": "a-formconfiguration-multilineinputbox",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "22767166",
+      "name": "form configuration-divider",
+      "font_class": "a-formconfiguration-divider",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "22767167",
+      "name": "form configuration-date range",
+      "font_class": "a-formconfiguration-daterange",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "22767168",
+      "name": "form configuration-group",
+      "font_class": "a-formconfiguration-group",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "22767169",
+      "name": "form configuration-single line input box",
+      "font_class": "a-formconfiguration-singlelineinputbox",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "22767170",
+      "name": "form configuration-single date",
+      "font_class": "a-formconfiguration-singledate",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "22767171",
+      "name": "form configuration-radio",
+      "font_class": "a-formconfiguration-radio",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "22767172",
+      "name": "form configuration-select",
+      "font_class": "a-formconfiguration-select",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "22767173",
+      "name": "form configuration-inputnumber",
+      "font_class": "a-formconfiguration-inputnumber",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "22739847",
+      "name": "application market",
+      "font_class": "a-applicationmarket",
+      "unicode": "e82b",
+      "unicode_decimal": 59435
+    },
+    {
+      "icon_id": "22719171",
+      "name": "add-filled",
+      "font_class": "add-filled",
+      "unicode": "e828",
+      "unicode_decimal": 59432
+    },
+    {
+      "icon_id": "22707688",
+      "name": "achievement delivery-filled",
+      "font_class": "a-achievementdelivery-filled",
+      "unicode": "e813",
+      "unicode_decimal": 59411
+    },
+    {
+      "icon_id": "22707689",
+      "name": "bidding management-filled",
+      "font_class": "a-biddingmanagement-filled",
+      "unicode": "e814",
+      "unicode_decimal": 59412
+    },
+    {
+      "icon_id": "22707690",
+      "name": "board center-filled",
+      "font_class": "a-boardcenter-filled",
+      "unicode": "e815",
+      "unicode_decimal": 59413
+    },
+    {
+      "icon_id": "22707691",
+      "name": "construction delivery-filled",
+      "font_class": "a-constructiondelivery-filled",
+      "unicode": "e816",
+      "unicode_decimal": 59414
+    },
+    {
+      "icon_id": "22707692",
+      "name": "config server-filled",
+      "font_class": "a-configserver-filled",
+      "unicode": "e817",
+      "unicode_decimal": 59415
+    },
+    {
+      "icon_id": "22707693",
+      "name": "completion and delivery-filled",
+      "font_class": "a-completionanddelivery-filled",
+      "unicode": "e818",
+      "unicode_decimal": 59416
+    },
+    {
+      "icon_id": "22707694",
+      "name": "home-filled",
+      "font_class": "home-filled1",
+      "unicode": "e819",
+      "unicode_decimal": 59417
+    },
+    {
+      "icon_id": "22707695",
+      "name": "construction coordination-filled",
+      "font_class": "a-constructioncoordination-filled",
+      "unicode": "e81a",
+      "unicode_decimal": 59418
+    },
+    {
+      "icon_id": "22707696",
+      "name": "cost control-filled",
+      "font_class": "a-costcontrol-filled",
+      "unicode": "e81b",
+      "unicode_decimal": 59419
+    },
+    {
+      "icon_id": "22707697",
+      "name": "knowledge base-filled",
+      "font_class": "a-knowledgebase-filled",
+      "unicode": "e81c",
+      "unicode_decimal": 59420
+    },
+    {
+      "icon_id": "22707698",
+      "name": "contract management-filled",
+      "font_class": "a-contractmanagement-filled1",
+      "unicode": "e81d",
+      "unicode_decimal": 59421
+    },
+    {
+      "icon_id": "22707699",
+      "name": "expense control-filled",
+      "font_class": "a-expensecontrol-filled",
+      "unicode": "e81e",
+      "unicode_decimal": 59422
+    },
+    {
+      "icon_id": "22707700",
+      "name": "project initialization management-filled",
+      "font_class": "a-projectinitializationmanagement-filled1",
+      "unicode": "e81f",
+      "unicode_decimal": 59423
+    },
+    {
+      "icon_id": "22707701",
+      "name": "design instruction tool-filled",
+      "font_class": "a-designinstructiontool-filled",
+      "unicode": "e820",
+      "unicode_decimal": 59424
+    },
+    {
+      "icon_id": "22707702",
+      "name": "personnel management-filled",
+      "font_class": "a-personnelmanagement-filled",
+      "unicode": "e821",
+      "unicode_decimal": 59425
+    },
+    {
+      "icon_id": "22707703",
+      "name": "design delivery-filled",
+      "font_class": "a-designdelivery-filled",
+      "unicode": "e822",
+      "unicode_decimal": 59426
+    },
+    {
+      "icon_id": "22707704",
+      "name": "material recipe tool-filled",
+      "font_class": "a-materialrecipetool-filled",
+      "unicode": "e823",
+      "unicode_decimal": 59427
+    },
+    {
+      "icon_id": "22707705",
+      "name": "unified technical measures-filled",
+      "font_class": "a-unifiedtechnicalmeasures-filled",
+      "unicode": "e824",
+      "unicode_decimal": 59428
+    },
+    {
+      "icon_id": "22707706",
+      "name": "task management-filled",
+      "font_class": "a-taskmanagement-filled",
+      "unicode": "e825",
+      "unicode_decimal": 59429
+    },
+    {
+      "icon_id": "22707707",
+      "name": "management of drawings and archives-filled",
+      "font_class": "a-managementofdrawingsandarchives-filled",
+      "unicode": "e826",
+      "unicode_decimal": 59430
+    },
+    {
+      "icon_id": "22707708",
+      "name": "user center-filled",
+      "font_class": "a-usercenter-filled",
+      "unicode": "e827",
+      "unicode_decimal": 59431
+    },
+    {
+      "icon_id": "22700980",
+      "name": "project initialization management-filled",
+      "font_class": "a-projectinitializationmanagement-filled",
+      "unicode": "e811",
+      "unicode_decimal": 59409
+    },
+    {
+      "icon_id": "22700981",
+      "name": "contract management-filled",
+      "font_class": "a-contractmanagement-filled",
+      "unicode": "e812",
+      "unicode_decimal": 59410
+    },
+    {
+      "icon_id": "22688789",
+      "name": "team space-filled",
+      "font_class": "a-teamspace-filled",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "22688790",
+      "name": "project-filled",
+      "font_class": "project-filled",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "22688791",
+      "name": "enterprise space-filled",
+      "font_class": "a-enterprisespace-filled",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "22688792",
+      "name": "thumbtack-filled",
+      "font_class": "thumbtack-filled",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "22688793",
+      "name": "thumbtack",
+      "font_class": "thumbtack",
+      "unicode": "e810",
+      "unicode_decimal": 59408
+    },
+    {
+      "icon_id": "22233097",
+      "name": "fixed upper right corner",
+      "font_class": "fixedupperrightcorner",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "22233098",
+      "name": "city location",
+      "font_class": "citylocation",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "22233099",
+      "name": "unlink",
+      "font_class": "unlink",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "22216562",
+      "name": "discussion groups",
+      "font_class": "discussiongroups",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "22216563",
+      "name": "help",
+      "font_class": "help1",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "22216564",
+      "name": "handwriting input",
+      "font_class": "handwritinginput",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "21143893",
+      "name": "full screen",
+      "font_class": "fittexttoscreen",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "21140898",
+      "name": "back to original view",
+      "font_class": "backtooriginalview",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "21000350",
+      "name": "yishu-follow",
+      "font_class": "yishu-follow",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "21000351",
+      "name": "yishu-browse",
+      "font_class": "yishu-browse",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "21000349",
+      "name": "yishu-comment",
+      "font_class": "yishu-comment",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "21000344",
+      "name": "yishu-dynamic",
+      "font_class": "yishu-dynamic",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "21000345",
+      "name": "yishu-home page",
+      "font_class": "yishu-homepage",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "21000346",
+      "name": "yishu-My discussion group",
+      "font_class": "yishu-Mydiscussiongroup",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "21000347",
+      "name": "yishu-My project",
+      "font_class": "yishu-Myproject",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "20655254",
+      "name": "breadcrumbs go back",
+      "font_class": "breadcrumbsgoback",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "20006686",
+      "name": "password",
+      "font_class": "password",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "20006365",
+      "name": "quit",
+      "font_class": "quit",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "20006366",
+      "name": "client download",
+      "font_class": "clientdownload",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "20006367",
+      "name": "upgrade",
+      "font_class": "upgrade",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "19950726",
+      "name": "more-circle",
+      "font_class": "more-circle",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "19950727",
+      "name": "personal center-colored",
+      "font_class": "personalcenter-colored",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "19950728",
+      "name": "node function-colored",
+      "font_class": "nodefunction-colored",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "19950729",
+      "name": "my home",
+      "font_class": "myhome",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "19950730",
+      "name": "personal center",
+      "font_class": "personalcenter",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "19950731",
+      "name": "work table",
+      "font_class": "worktable",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "19950732",
+      "name": "tesk node-colored",
+      "font_class": "tesknode-colored",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "19950733",
+      "name": "approval-colored",
+      "font_class": "approval-colored",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "19950734",
+      "name": "work table-colored",
+      "font_class": "worktable-colored",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "19950735",
+      "name": "to do",
+      "font_class": "todo",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "19804313",
+      "name": "component list",
+      "font_class": "componentlist",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "19804314",
+      "name": "add attachments",
+      "font_class": "addattachments",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "19804315",
+      "name": "drawing list",
+      "font_class": "drawinglist",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "19804316",
+      "name": "general issues",
+      "font_class": "generalissues",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "19804317",
+      "name": "export",
+      "font_class": "export",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "19804318",
+      "name": "voice input",
+      "font_class": "voiceinput",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "19804320",
+      "name": "FAQ Handbook",
+      "font_class": "FAQHandbook",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "19804321",
+      "name": "unlock",
+      "font_class": "unlock",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "19804323",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "19804324",
+      "name": "exhale panel",
+      "font_class": "exhalepanel",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "19804325",
+      "name": "assign tasks",
+      "font_class": "assigntasks",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "19804326",
+      "name": "markup list",
+      "font_class": "markuplist",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "19804327",
+      "name": "snapshot",
+      "font_class": "snapshot",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "19804328",
+      "name": "markup statistics",
+      "font_class": "markupstatistics",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "19354283",
+      "name": "circularize-nav",
+      "font_class": "circularize-nav",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "19237590",
+      "name": "management of consultation mode-nav-colored",
+      "font_class": "managementofconsultationmode-nav-colored",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "19237591",
+      "name": "management of consultation mode-nav-discolored",
+      "font_class": "managementofconsultationmode-nav-discolored",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "19237555",
+      "name": "cost analysis-nav-discolored",
+      "font_class": "costanalysis-nav-discolored",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "19237556",
+      "name": "image management-nav-discolored",
+      "font_class": "imagemanagement-nav-discolored",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "19237557",
+      "name": "correspondence management-nav-discolored",
+      "font_class": "correspondencemanagement-nav-discolored",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "19237558",
+      "name": "contract management-nav-discolored",
+      "font_class": "contractmanagement-nav-discolored",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "19237559",
+      "name": "late cooperation-nav-discolored",
+      "font_class": "latecooperation-nav-discolored",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "19237561",
+      "name": "project info management discolored-nav",
+      "font_class": "projectinfomanagementdiscolored-nav",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "19237563",
+      "name": "output value distribution-nav-discolored",
+      "font_class": "outputvaluedistribution-nav-discolored",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "19237564",
+      "name": "project punchlist check-nav-discolored",
+      "font_class": "projectpunchlistcheck-nav-discolored",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "19237565",
+      "name": "project archived-nav-discolored",
+      "font_class": "projectarchived-nav-discolored",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "19237566",
+      "name": "project files management-nav-discolored",
+      "font_class": "projectfilesmanagement-nav-discolored",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "19237567",
+      "name": "search-project-nav-discolored",
+      "font_class": "search-project-nav-discolored",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "19237568",
+      "name": "search-task-nav-discolored",
+      "font_class": "search-task-nav-discolored",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "19237569",
+      "name": "project summary-nav-discolored",
+      "font_class": "projectsummary-nav-discolored",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "19237570",
+      "name": "operational account management-nav-discolored",
+      "font_class": "operationalaccountmanagement-nav-discolored",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "19237549",
+      "name": "construction drawing review-nav-colored",
+      "font_class": "constructiondrawingreview-nav-colored1",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "19237550",
+      "name": "construction drawing review-nav-discolored",
+      "font_class": "constructiondrawingreview-nav-discolored1",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "19129332",
+      "name": "output-nav-colored",
+      "font_class": "output-nav-colored1",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "19129322",
+      "name": "output-nav-discolored",
+      "font_class": "output-nav-discolored",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "18999368",
+      "name": "circularize-discolored",
+      "font_class": "circularize-nav-discolored",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "18999361",
+      "name": "circularize-colored",
+      "font_class": "circularize-nav-colored",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "18980319",
+      "name": "markup-area-circle",
+      "font_class": "markup-area-circle",
+      "unicode": "e808",
+      "unicode_decimal": 59400
+    },
+    {
+      "icon_id": "18980320",
+      "name": "markup-area-rectangle",
+      "font_class": "markup-area-rectangle",
+      "unicode": "e809",
+      "unicode_decimal": 59401
+    },
+    {
+      "icon_id": "17455411",
+      "name": "messages-colored",
+      "font_class": "messages-colored",
+      "unicode": "e7c4",
+      "unicode_decimal": 59332
+    },
+    {
+      "icon_id": "18926604",
+      "name": "design instruction tool-nav-discolored",
+      "font_class": "designinstructiontool-nav-discolored",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "18926551",
+      "name": "design instruction tool-nav-colored",
+      "font_class": "designinstructiontool-nav-colored",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "18703809",
+      "name": "delivery platform",
+      "font_class": "deliveryplatform",
+      "unicode": "e80e",
+      "unicode_decimal": 59406
+    },
+    {
+      "icon_id": "18703841",
+      "name": "unified technical measures",
+      "font_class": "unifiedtechnicalmeasures",
+      "unicode": "e80f",
+      "unicode_decimal": 59407
+    },
+    {
+      "icon_id": "18608977",
+      "name": "cost platform",
+      "font_class": "costplatform",
+      "unicode": "e80a",
+      "unicode_decimal": 59402
+    },
+    {
+      "icon_id": "18608980",
+      "name": "design instruction tool",
+      "font_class": "designinstructiontool1",
+      "unicode": "e80b",
+      "unicode_decimal": 59403
+    },
+    {
+      "icon_id": "18608982",
+      "name": "major",
+      "font_class": "major",
+      "unicode": "e80c",
+      "unicode_decimal": 59404
+    },
+    {
+      "icon_id": "18608983",
+      "name": "material recipe tool",
+      "font_class": "materialrecipetool1",
+      "unicode": "e80d",
+      "unicode_decimal": 59405
+    },
+    {
+      "icon_id": "18236278",
+      "name": "planning and application for construction-nav-colo",
+      "font_class": "planningandapplicationforconstruction-nav-colo1",
+      "unicode": "e806",
+      "unicode_decimal": 59398
+    },
+    {
+      "icon_id": "18236279",
+      "name": "planning and application for construction-nav-disc",
+      "font_class": "planningandapplicationforconstruction-nav-disc1",
+      "unicode": "e807",
+      "unicode_decimal": 59399
+    },
+    {
+      "icon_id": "18236282",
+      "name": "Project cockpit-nav-discolored",
+      "font_class": "Projectcockpit-nav-discolored",
+      "unicode": "e802",
+      "unicode_decimal": 59394
+    },
+    {
+      "icon_id": "18236284",
+      "name": "Project cockpit-nav-colored",
+      "font_class": "Projectcockpit-nav-colored",
+      "unicode": "e803",
+      "unicode_decimal": 59395
+    },
+    {
+      "icon_id": "18236292",
+      "name": "review and consultation-nav-colored",
+      "font_class": "reviewandconsultation-nav-colored",
+      "unicode": "e804",
+      "unicode_decimal": 59396
+    },
+    {
+      "icon_id": "18236293",
+      "name": "review and consultation-nav-discolored",
+      "font_class": "reviewandconsultation-nav-discolored",
+      "unicode": "e805",
+      "unicode_decimal": 59397
+    },
+    {
+      "icon_id": "18181551",
+      "name": "my enterprise-discolored",
+      "font_class": "myenterprise-discolored",
+      "unicode": "e7f6",
+      "unicode_decimal": 59382
+    },
+    {
+      "icon_id": "18181552",
+      "name": "my enterprise-colored",
+      "font_class": "myenterprise-colored",
+      "unicode": "e7f7",
+      "unicode_decimal": 59383
+    },
+    {
+      "icon_id": "18063746",
+      "name": "unified technical measures-colored",
+      "font_class": "unifiedtechnicalmeasures-colored",
+      "unicode": "e7cb",
+      "unicode_decimal": 59339
+    },
+    {
+      "icon_id": "18063747",
+      "name": "unified technical measures-discolored",
+      "font_class": "unifiedtechnicalmeasures-discolored",
+      "unicode": "e7cc",
+      "unicode_decimal": 59340
+    },
+    {
+      "icon_id": "17950524",
+      "name": "view-list",
+      "font_class": "view-list",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    },
+    {
+      "icon_id": "17950525",
+      "name": "view-thumbnail",
+      "font_class": "view-thumbnail",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "17940777",
+      "name": "project management system-nav-colored",
+      "font_class": "projectmanagementsystem-nav-colored",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "17940780",
+      "name": "project management system-nav-discolored",
+      "font_class": "projectmanagementsystem-nav-discolored",
+      "unicode": "e7ff",
+      "unicode_decimal": 59391
+    },
+    {
+      "icon_id": "17940775",
+      "name": "collaborative design platform-nav-discolored",
+      "font_class": "collaborativedesignplatform-nav-discolored",
+      "unicode": "e7fc",
+      "unicode_decimal": 59388
+    },
+    {
+      "icon_id": "17940781",
+      "name": "collaborative design platform-nav-colored",
+      "font_class": "collaborativedesignplatform-nav-colored",
+      "unicode": "e7fd",
+      "unicode_decimal": 59389
+    },
+    {
+      "icon_id": "17940776",
+      "name": "to do-project management-nav-colored",
+      "font_class": "todo-projectmanagement-nav-colored",
+      "unicode": "e7fa",
+      "unicode_decimal": 59386
+    },
+    {
+      "icon_id": "17940778",
+      "name": "to do-project management-nav-discolored",
+      "font_class": "todo-projectmanagement-nav-discolored",
+      "unicode": "e7fb",
+      "unicode_decimal": 59387
+    },
+    {
+      "icon_id": "17940779",
+      "name": "to do-design management-nav-colored",
+      "font_class": "todo-designmanagement-nav-colored",
+      "unicode": "e7f8",
+      "unicode_decimal": 59384
+    },
+    {
+      "icon_id": "17940782",
+      "name": "to do-design management-nav-discolored",
+      "font_class": "todo-designmanagement-nav-discolored",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "17913853",
+      "name": "enterprise management configuration-nav-colored",
+      "font_class": "enterprisemanagementconfiguration-nav-colored",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
+      "icon_id": "17913854",
+      "name": "enterprise management configuration-nav-discolored",
+      "font_class": "enterprisemanagementconfiguration-nav-discolored",
+      "unicode": "e7f5",
+      "unicode_decimal": 59381
+    },
+    {
+      "icon_id": "17913716",
+      "name": "resources-discolored",
+      "font_class": "resources-discolored",
+      "unicode": "e7f0",
+      "unicode_decimal": 59376
+    },
+    {
+      "icon_id": "17913717",
+      "name": "resources-colored",
+      "font_class": "resources-colored",
+      "unicode": "e7f1",
+      "unicode_decimal": 59377
+    },
+    {
+      "icon_id": "17913815",
+      "name": "architecture-nav-colored",
+      "font_class": "architecture-nav-colored",
+      "unicode": "e7f2",
+      "unicode_decimal": 59378
+    },
+    {
+      "icon_id": "17913816",
+      "name": "architecture-nav-discolored",
+      "font_class": "architecture-nav-discolored1",
+      "unicode": "e7f3",
+      "unicode_decimal": 59379
+    },
+    {
+      "icon_id": "17912897",
+      "name": "cbim package-nav-discolored",
+      "font_class": "cbimpackage-nav-discolored",
+      "unicode": "e7ee",
+      "unicode_decimal": 59374
+    },
+    {
+      "icon_id": "17912899",
+      "name": "cbim package-nav-colored",
+      "font_class": "cbimpackage-nav-colored",
+      "unicode": "e7ef",
+      "unicode_decimal": 59375
+    },
+    {
+      "icon_id": "17912900",
+      "name": "business map-nav-discolored",
+      "font_class": "businessmap-nav-discolored",
+      "unicode": "e7ea",
+      "unicode_decimal": 59370
+    },
+    {
+      "icon_id": "17912901",
+      "name": "business map-nav-colored",
+      "font_class": "businessmap-nav-colored",
+      "unicode": "e7eb",
+      "unicode_decimal": 59371
+    },
+    {
+      "icon_id": "17912904",
+      "name": "construction drawing review-nav-discolored",
+      "font_class": "constructiondrawingreview-nav-discolored",
+      "unicode": "e7ec",
+      "unicode_decimal": 59372
+    },
+    {
+      "icon_id": "17912907",
+      "name": "construction drawing review-nav-colored",
+      "font_class": "constructiondrawingreview-nav-colored",
+      "unicode": "e7ed",
+      "unicode_decimal": 59373
+    },
+    {
+      "icon_id": "17912908",
+      "name": "electronic signature-discolored",
+      "font_class": "electronicsignature-discolored",
+      "unicode": "e7e7",
+      "unicode_decimal": 59367
+    },
+    {
+      "icon_id": "17912909",
+      "name": "electronic signature-colored",
+      "font_class": "electronicsignature-colored",
+      "unicode": "e7e8",
+      "unicode_decimal": 59368
+    },
+    {
+      "icon_id": "17912913",
+      "name": "messages-discolored",
+      "font_class": "messages-discolored",
+      "unicode": "e7e9",
+      "unicode_decimal": 59369
+    },
+    {
+      "icon_id": "17912912",
+      "name": "check for updates-discolored",
+      "font_class": "checkforupdates-discolored",
+      "unicode": "e7e3",
+      "unicode_decimal": 59363
+    },
+    {
+      "icon_id": "17912915",
+      "name": "check for updates-colored",
+      "font_class": "checkforupdates-colored",
+      "unicode": "e7e4",
+      "unicode_decimal": 59364
+    },
+    {
+      "icon_id": "17912916",
+      "name": "my content library-nav-discolored",
+      "font_class": "mycontentlibrary-nav-discolored",
+      "unicode": "e7e5",
+      "unicode_decimal": 59365
+    },
+    {
+      "icon_id": "17912918",
+      "name": "my content library-nav-colored",
+      "font_class": "mycontentlibrary-nav-colored",
+      "unicode": "e7e6",
+      "unicode_decimal": 59366
+    },
+    {
+      "icon_id": "17912924",
+      "name": "my resources-nav-colored",
+      "font_class": "myresources-nav-colored",
+      "unicode": "e7df",
+      "unicode_decimal": 59359
+    },
+    {
+      "icon_id": "17912926",
+      "name": "my resources-nav-discolored",
+      "font_class": "myresources-nav-discolored",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "17912927",
+      "name": "project list-nav-discolored",
+      "font_class": "projectlist-nav-discolored",
+      "unicode": "e7e1",
+      "unicode_decimal": 59361
+    },
+    {
+      "icon_id": "17912928",
+      "name": "project list-nav-colored",
+      "font_class": "projectlist-nav-colored",
+      "unicode": "e7e2",
+      "unicode_decimal": 59362
+    },
+    {
+      "icon_id": "17912905",
+      "name": "course package-nav-colored",
+      "font_class": "coursepackage-nav-colored",
+      "unicode": "e7dd",
+      "unicode_decimal": 59357
+    },
+    {
+      "icon_id": "17912930",
+      "name": "course package-nav-discolored",
+      "font_class": "coursepackage-nav-discolored",
+      "unicode": "e7de",
+      "unicode_decimal": 59358
+    },
+    {
+      "icon_id": "17913748",
+      "name": "material recipe tool-nav-colored",
+      "font_class": "materialrecipetool-nav-colored1",
+      "unicode": "e7db",
+      "unicode_decimal": 59355
+    },
+    {
+      "icon_id": "17913749",
+      "name": "material recipe tool-nav-discolored",
+      "font_class": "materialrecipetool-nav-discolored",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
+      "icon_id": "17912903",
+      "name": "cbim resources-nav-colored",
+      "font_class": "cbimresources-nav-colored",
+      "unicode": "e7d9",
+      "unicode_decimal": 59353
+    },
+    {
+      "icon_id": "17912906",
+      "name": "cbim resources-nav-discolored",
+      "font_class": "cbimresources-nav-discolored",
+      "unicode": "e7da",
+      "unicode_decimal": 59354
+    },
+    {
+      "icon_id": "17912925",
+      "name": "enterprise resources-nav-colored",
+      "font_class": "enterpriseresources-nav-colored",
+      "unicode": "e7d7",
+      "unicode_decimal": 59351
+    },
+    {
+      "icon_id": "17912932",
+      "name": "enterprise resources-nav-discolored",
+      "font_class": "enterpriseresources-nav-discolored",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "17912929",
+      "name": "planning and application for construction-nav-colo",
+      "font_class": "planningandapplicationforconstruction-nav-colo",
+      "unicode": "e7d5",
+      "unicode_decimal": 59349
+    },
+    {
+      "icon_id": "17912933",
+      "name": "planning and application for construction-nav-disc",
+      "font_class": "planningandapplicationforconstruction-nav-disc",
+      "unicode": "e7d6",
+      "unicode_decimal": 59350
+    },
+    {
+      "icon_id": "17912936",
+      "name": "train-discoloed",
+      "font_class": "train-discoloed",
+      "unicode": "e7d3",
+      "unicode_decimal": 59347
+    },
+    {
+      "icon_id": "17912940",
+      "name": "train-colored",
+      "font_class": "train-colored",
+      "unicode": "e7d4",
+      "unicode_decimal": 59348
+    },
+    {
+      "icon_id": "17912937",
+      "name": "my study-nav-colored",
+      "font_class": "mystudy-nav-colored",
+      "unicode": "e7d1",
+      "unicode_decimal": 59345
+    },
+    {
+      "icon_id": "17912941",
+      "name": "my study-nav-discolored",
+      "font_class": "mystudy-nav-discolored",
+      "unicode": "e7d2",
+      "unicode_decimal": 59346
+    },
+    {
+      "icon_id": "17912921",
+      "name": "My tools-mav-colored",
+      "font_class": "Mytools-mav-colored",
+      "unicode": "e7cf",
+      "unicode_decimal": 59343
+    },
+    {
+      "icon_id": "17912942",
+      "name": "My tools-mav-discolored",
+      "font_class": "Mytools-mav-discolored",
+      "unicode": "e7d0",
+      "unicode_decimal": 59344
+    },
+    {
+      "icon_id": "17912938",
+      "name": "task list-nav-discolored",
+      "font_class": "tasklist-nav-discolored",
+      "unicode": "e7cd",
+      "unicode_decimal": 59341
+    },
+    {
+      "icon_id": "17912943",
+      "name": "task list-nav-colored",
+      "font_class": "tasklist-nav-colored",
+      "unicode": "e7ce",
+      "unicode_decimal": 59342
+    },
+    {
+      "icon_id": "17912922",
+      "name": "my home-nav-colored",
+      "font_class": "myhome-nav-colored",
+      "unicode": "e7c9",
+      "unicode_decimal": 59337
+    },
+    {
+      "icon_id": "17912945",
+      "name": "my home-nav-discolored",
+      "font_class": "myhome-nav-discolored",
+      "unicode": "e7ca",
+      "unicode_decimal": 59338
+    },
+    {
+      "icon_id": "17912902",
+      "name": "architecture-nav-discolored",
+      "font_class": "architecture-nav-discolored",
+      "unicode": "e7c7",
+      "unicode_decimal": 59335
+    },
+    {
+      "icon_id": "17912920",
+      "name": "Municipal Administration-nav-colored",
+      "font_class": "MunicipalAdministration-nav-colored",
+      "unicode": "e7c8",
+      "unicode_decimal": 59336
+    },
+    {
+      "icon_id": "17814668",
+      "name": "sort-up",
+      "font_class": "sort-up",
+      "unicode": "e7c5",
+      "unicode_decimal": 59333
+    },
+    {
+      "icon_id": "17814669",
+      "name": "sort-down",
+      "font_class": "sort-down",
+      "unicode": "e7c6",
+      "unicode_decimal": 59334
+    },
+    {
+      "icon_id": "17760031",
+      "name": "Downward increase",
+      "font_class": "Downwardincrease",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "17760032",
+      "name": "Increase upward",
+      "font_class": "Increaseupward",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "17431236",
+      "name": "recent project-colored",
+      "font_class": "recentproject-colored",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
+      "icon_id": "17431203",
+      "name": "arrow-down-filled",
+      "font_class": "arrow-down-filled",
+      "unicode": "e7bf",
+      "unicode_decimal": 59327
+    },
+    {
+      "icon_id": "17431215",
+      "name": "arrow-up-filled",
+      "font_class": "arrow-up-filled",
+      "unicode": "e7c0",
+      "unicode_decimal": 59328
+    },
+    {
+      "icon_id": "17431256",
+      "name": "fold-nav",
+      "font_class": "fold-nav",
+      "unicode": "e7c1",
+      "unicode_decimal": 59329
+    },
+    {
+      "icon_id": "17431257",
+      "name": "unfold-nav",
+      "font_class": "unfold-nav",
+      "unicode": "e7c2",
+      "unicode_decimal": 59330
+    },
+    {
+      "icon_id": "17420589",
+      "name": "mirror- small",
+      "font_class": "mirror-small",
+      "unicode": "e7be",
+      "unicode_decimal": 59326
+    },
+    {
+      "icon_id": "16157340",
+      "name": "recycling bins- nav",
+      "font_class": "recyclingbins-nav",
+      "unicode": "e7bd",
+      "unicode_decimal": 59325
+    },
+    {
+      "icon_id": "16067986",
+      "name": "download record management - nav",
+      "font_class": "downloadrecordmanagement-nav",
+      "unicode": "e7bb",
+      "unicode_decimal": 59323
+    },
+    {
+      "icon_id": "16067987",
+      "name": "operation log - nav",
+      "font_class": "operationlog-nav",
+      "unicode": "e7bc",
+      "unicode_decimal": 59324
+    },
+    {
+      "icon_id": "15602893",
+      "name": "CBIM course-nav",
+      "font_class": "CBIMcourse-nav",
+      "unicode": "e7ba",
+      "unicode_decimal": 59322
+    },
+    {
+      "icon_id": "15602892",
+      "name": "course package-nav",
+      "font_class": "coursepackage-nav",
+      "unicode": "e7b9",
+      "unicode_decimal": 59321
+    },
+    {
+      "icon_id": "15456107",
+      "name": "alert-triangle",
+      "font_class": "alert-triangle",
+      "unicode": "e7b5",
+      "unicode_decimal": 59317
+    },
+    {
+      "icon_id": "15456108",
+      "name": "alert-circle",
+      "font_class": "alert-circle",
+      "unicode": "e7b6",
+      "unicode_decimal": 59318
+    },
+    {
+      "icon_id": "15456109",
+      "name": "alert-hexagon",
+      "font_class": "alert-hexagon",
+      "unicode": "e7b7",
+      "unicode_decimal": 59319
+    },
+    {
+      "icon_id": "15456110",
+      "name": "locked-filled",
+      "font_class": "locked-filled",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "15371760",
+      "name": "cbimlogo",
+      "font_class": "cbimlogo",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "15371761",
+      "name": "list-sidebar",
+      "font_class": "list-sidebar",
+      "unicode": "e7b4",
+      "unicode_decimal": 59316
+    },
+    {
+      "icon_id": "15370520",
+      "name": "company-nav",
+      "font_class": "company-nav",
+      "unicode": "e7b1",
+      "unicode_decimal": 59313
+    },
+    {
+      "icon_id": "15370521",
+      "name": "company resources management-nav",
+      "font_class": "companyresourcesmanagement-nav",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "15280456",
+      "name": "project info management colored-nav",
+      "font_class": "projectinfomanagementcolored-nav",
+      "unicode": "e7b0",
+      "unicode_decimal": 59312
+    },
+    {
+      "icon_id": "14942904",
+      "name": "company",
+      "font_class": "company",
+      "unicode": "e7ac",
+      "unicode_decimal": 59308
+    },
+    {
+      "icon_id": "14942905",
+      "name": "occupation",
+      "font_class": "occupation",
+      "unicode": "e7ad",
+      "unicode_decimal": 59309
+    },
+    {
+      "icon_id": "14942906",
+      "name": "drawing comments",
+      "font_class": "drawingcomments",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "14942923",
+      "name": "phone number",
+      "font_class": "phonenumber",
+      "unicode": "e7af",
+      "unicode_decimal": 59311
+    },
+    {
+      "icon_id": "14942350",
+      "name": "multi phase simultaneous-one person start",
+      "font_class": "multiphasesimultaneous-onepersonstart",
+      "unicode": "e7ab",
+      "unicode_decimal": 59307
+    },
+    {
+      "icon_id": "14937273",
+      "name": "multi phase simultaneous-one person",
+      "font_class": "multiphasesimultaneous-oneperson",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    },
+    {
+      "icon_id": "14915165",
+      "name": "phase review",
+      "font_class": "phasereview",
+      "unicode": "e7a9",
+      "unicode_decimal": 59305
+    },
+    {
+      "icon_id": "14827468",
+      "name": "upward",
+      "font_class": "upward",
+      "unicode": "e7a5",
+      "unicode_decimal": 59301
+    },
+    {
+      "icon_id": "14827472",
+      "name": "forward",
+      "font_class": "forward",
+      "unicode": "e7a6",
+      "unicode_decimal": 59302
+    },
+    {
+      "icon_id": "14827473",
+      "name": "downward",
+      "font_class": "downward",
+      "unicode": "e7a7",
+      "unicode_decimal": 59303
+    },
+    {
+      "icon_id": "14827475",
+      "name": "backward",
+      "font_class": "backward",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "14746547",
+      "name": "multi person choose one end-filled",
+      "font_class": "multipersonchooseoneend-filled",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "14746753",
+      "name": "multi person choose one end",
+      "font_class": "multipersonchooseoneend",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "14746759",
+      "name": "multi person choose one in the process-filled",
+      "font_class": "multipersonchooseoneintheprocess-filled",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "14746926",
+      "name": "multi person in order end-filled",
+      "font_class": "multipersoninorderend-filled",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "14746945",
+      "name": "multi person simultaneous end-filled",
+      "font_class": "multipersonsimultaneousend-filled",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "14746946",
+      "name": "multi person in order in the process-filled",
+      "font_class": "multipersoninorderintheprocess-filled",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "14746964",
+      "name": "multi person in order end",
+      "font_class": "multipersoninorderend",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "14746973",
+      "name": "multi person choose one in the process",
+      "font_class": "multipersonchooseoneintheprocess",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "14746975",
+      "name": "multi person simultaneous end",
+      "font_class": "multipersonsimultaneousend",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "14746980",
+      "name": "multi person in order in the process",
+      "font_class": "multipersoninorderintheprocess",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "14747016",
+      "name": "one person end-filled",
+      "font_class": "onepersonend-filled",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "14747022",
+      "name": "one person  in the process",
+      "font_class": "onepersonintheprocess",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "14747036",
+      "name": "one person end",
+      "font_class": "onepersonend",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "14747038",
+      "name": "one person in the process-filled",
+      "font_class": "onepersonintheprocess-filled",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "14747041",
+      "name": "one person start-filled",
+      "font_class": "onepersonstart-filled",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "14747046",
+      "name": "multi person simultaneous in the process",
+      "font_class": "multipersonsimultaneousintheprocess",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "14747049",
+      "name": "one person start",
+      "font_class": "onepersonstart",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "14747053",
+      "name": "multi person simultaneous in the process-filled",
+      "font_class": "multipersonsimultaneousintheprocess-filled",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "14504263",
+      "name": "operational account management-nav-colored",
+      "font_class": "operationalaccountmanagement-nav-colored",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "14504264",
+      "name": "correspondence management-nav-colored",
+      "font_class": "correspondencemanagement-nav-colored",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "14504265",
+      "name": "project files management-nav-colored",
+      "font_class": "projectfilesmanagement-nav-colored",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "14504266",
+      "name": "cost analysis-nav-colored",
+      "font_class": "costanalysis-nav-colored",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14504267",
+      "name": "image management-nav-colored",
+      "font_class": "imagemanagement-nav-colored",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "14504268",
+      "name": "output value distribution-nav-colored",
+      "font_class": "outputvaluedistribution-nav-colored",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "14504269",
+      "name": "late cooperation-nav-colored",
+      "font_class": "latecooperation-nav-colored",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "14504270",
+      "name": "search-project-nav-colored",
+      "font_class": "search-project-nav-colored",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "14504271",
+      "name": "to do-nav-colored",
+      "font_class": "todo-nav-colored",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14504272",
+      "name": "search-task-nav-colored",
+      "font_class": "search-task-nav-colored",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "14504273",
+      "name": "project summary-nav-colored",
+      "font_class": "projectsummary-nav-colored",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "14504274",
+      "name": "project archived-nav-colored",
+      "font_class": "projectarchived-nav-colored",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "14504275",
+      "name": "project punchlist check-nav-colored",
+      "font_class": "projectpunchlistcheck-nav-colored",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "14504276",
+      "name": "contract management-nav-colored",
+      "font_class": "contractmanagement-nav-colored",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "14450469",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "14450470",
+      "name": "exit full screen-rectangle",
+      "font_class": "exitfullscreen-rectangle",
+      "unicode": "e731",
+      "unicode_decimal": 59185
+    },
+    {
+      "icon_id": "14450471",
+      "name": "exit full screen",
+      "font_class": "exitfullscreen",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "14450472",
+      "name": "flag-filled",
+      "font_class": "flag-filled",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "14450474",
+      "name": "flag",
+      "font_class": "flag",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    },
+    {
+      "icon_id": "14450476",
+      "name": "filter",
+      "font_class": "filter",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "14450478",
+      "name": "folder-small-filled",
+      "font_class": "folder-small-filled",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "14450479",
+      "name": "folder-filled",
+      "font_class": "folder-filled",
+      "unicode": "e737",
+      "unicode_decimal": 59191
+    },
+    {
+      "icon_id": "14450480",
+      "name": "folder-small",
+      "font_class": "folder-small",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "14450481",
+      "name": "folder",
+      "font_class": "folder",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    },
+    {
+      "icon_id": "14450482",
+      "name": "full screen",
+      "font_class": "fullscreen",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "14450483",
+      "name": "full screen-rectangle",
+      "font_class": "fullscreen-rectangle",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "14450484",
+      "name": "general files-filled",
+      "font_class": "generalfiles-filled",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    },
+    {
+      "icon_id": "14450485",
+      "name": "general files",
+      "font_class": "generalfiles",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "14450486",
+      "name": "help",
+      "font_class": "help",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "14450487",
+      "name": "help-filled",
+      "font_class": "help-filled",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "14450488",
+      "name": "ID",
+      "font_class": "ID",
+      "unicode": "e740",
+      "unicode_decimal": 59200
+    },
+    {
+      "icon_id": "14450490",
+      "name": "info-filled",
+      "font_class": "info-filled",
+      "unicode": "e741",
+      "unicode_decimal": 59201
+    },
+    {
+      "icon_id": "14450491",
+      "name": "info",
+      "font_class": "info",
+      "unicode": "e742",
+      "unicode_decimal": 59202
+    },
+    {
+      "icon_id": "14450492",
+      "name": "info-small-filled",
+      "font_class": "info-small-filled",
+      "unicode": "e743",
+      "unicode_decimal": 59203
+    },
+    {
+      "icon_id": "14450493",
+      "name": "info-small",
+      "font_class": "info-small",
+      "unicode": "e744",
+      "unicode_decimal": 59204
+    },
+    {
+      "icon_id": "14450494",
+      "name": "loading",
+      "font_class": "loading",
+      "unicode": "e745",
+      "unicode_decimal": 59205
+    },
+    {
+      "icon_id": "14450495",
+      "name": "locate",
+      "font_class": "locate",
+      "unicode": "e746",
+      "unicode_decimal": 59206
+    },
+    {
+      "icon_id": "14450496",
+      "name": "link",
+      "font_class": "link",
+      "unicode": "e747",
+      "unicode_decimal": 59207
+    },
+    {
+      "icon_id": "14450497",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "14450498",
+      "name": "open-in-new",
+      "font_class": "open-in-new",
+      "unicode": "e749",
+      "unicode_decimal": 59209
+    },
+    {
+      "icon_id": "14450499",
+      "name": "organization",
+      "font_class": "organization",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "14450500",
+      "name": "model",
+      "font_class": "model",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "14450506",
+      "name": "publish",
+      "font_class": "publish",
+      "unicode": "e74c",
+      "unicode_decimal": 59212
+    },
+    {
+      "icon_id": "14450507",
+      "name": "published",
+      "font_class": "published",
+      "unicode": "e74d",
+      "unicode_decimal": 59213
+    },
+    {
+      "icon_id": "14450508",
+      "name": "unpublished",
+      "font_class": "unpublished",
+      "unicode": "e74e",
+      "unicode_decimal": 59214
+    },
+    {
+      "icon_id": "14450509",
+      "name": "query log",
+      "font_class": "querylog",
+      "unicode": "e74f",
+      "unicode_decimal": 59215
+    },
+    {
+      "icon_id": "14450512",
+      "name": "remove",
+      "font_class": "remove",
+      "unicode": "e750",
+      "unicode_decimal": 59216
+    },
+    {
+      "icon_id": "14450513",
+      "name": "remove-circle",
+      "font_class": "remove-circle",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "14450514",
+      "name": "resource pack",
+      "font_class": "resourcepack",
+      "unicode": "e752",
+      "unicode_decimal": 59218
+    },
+    {
+      "icon_id": "14450515",
+      "name": "seal",
+      "font_class": "seal",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "14450516",
+      "name": "select subs",
+      "font_class": "selectsubs",
+      "unicode": "e754",
+      "unicode_decimal": 59220
+    },
+    {
+      "icon_id": "14450517",
+      "name": "settings-filled",
+      "font_class": "settings-filled",
+      "unicode": "e755",
+      "unicode_decimal": 59221
+    },
+    {
+      "icon_id": "14450518",
+      "name": "settings",
+      "font_class": "settings",
+      "unicode": "e756",
+      "unicode_decimal": 59222
+    },
+    {
+      "icon_id": "14450519",
+      "name": "settings-small-filled",
+      "font_class": "settings-small-filled",
+      "unicode": "e757",
+      "unicode_decimal": 59223
+    },
+    {
+      "icon_id": "14450520",
+      "name": "settings-small",
+      "font_class": "settings-small",
+      "unicode": "e758",
+      "unicode_decimal": 59224
+    },
+    {
+      "icon_id": "14450535",
+      "name": "show",
+      "font_class": "show",
+      "unicode": "e759",
+      "unicode_decimal": 59225
+    },
+    {
+      "icon_id": "14450536",
+      "name": "hide",
+      "font_class": "hide",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "14450537",
+      "name": "ID",
+      "font_class": "ID1",
+      "unicode": "e75b",
+      "unicode_decimal": 59227
+    },
+    {
+      "icon_id": "14450543",
+      "name": "sort",
+      "font_class": "sort",
+      "unicode": "e75c",
+      "unicode_decimal": 59228
+    },
+    {
+      "icon_id": "14450544",
+      "name": "sub-project",
+      "font_class": "sub-project",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "14450545",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "14450546",
+      "name": "time-small",
+      "font_class": "time-small",
+      "unicode": "e75f",
+      "unicode_decimal": 59231
+    },
+    {
+      "icon_id": "14450547",
+      "name": "time-filled",
+      "font_class": "time-filled",
+      "unicode": "e760",
+      "unicode_decimal": 59232
+    },
+    {
+      "icon_id": "14450548",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e761",
+      "unicode_decimal": 59233
+    },
+    {
+      "icon_id": "14450549",
+      "name": "zoom in",
+      "font_class": "zoomin",
+      "unicode": "e762",
+      "unicode_decimal": 59234
+    },
+    {
+      "icon_id": "14450550",
+      "name": "zoom out",
+      "font_class": "zoomout",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "14450672",
+      "name": "check-small-circle-filled",
+      "font_class": "check-small-circle-filled",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "14450673",
+      "name": "check-circle-filled",
+      "font_class": "check-circle-filled",
+      "unicode": "e765",
+      "unicode_decimal": 59237
+    },
+    {
+      "icon_id": "14450674",
+      "name": "check-circle",
+      "font_class": "check-circle",
+      "unicode": "e766",
+      "unicode_decimal": 59238
+    },
+    {
+      "icon_id": "14450675",
+      "name": "check-small-circle",
+      "font_class": "check-small-circle",
+      "unicode": "e767",
+      "unicode_decimal": 59239
+    },
+    {
+      "icon_id": "14450676",
+      "name": "check-small",
+      "font_class": "check-small",
+      "unicode": "e768",
+      "unicode_decimal": 59240
+    },
+    {
+      "icon_id": "14450677",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e769",
+      "unicode_decimal": 59241
+    },
+    {
+      "icon_id": "14450681",
+      "name": "star-filled",
+      "font_class": "star-filled",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "14450682",
+      "name": "star",
+      "font_class": "star",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "14450695",
+      "name": "data-urban construction management",
+      "font_class": "data-urbanconstructionmanagement",
+      "unicode": "e76c",
+      "unicode_decimal": 59244
+    },
+    {
+      "icon_id": "14450696",
+      "name": "type-platform",
+      "font_class": "type-platform",
+      "unicode": "e76d",
+      "unicode_decimal": 59245
+    },
+    {
+      "icon_id": "14450697",
+      "name": "model-detailed design",
+      "font_class": "model-detaileddesign",
+      "unicode": "e76e",
+      "unicode_decimal": 59246
+    },
+    {
+      "icon_id": "14450698",
+      "name": "advanced training",
+      "font_class": "advancedtraining",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "14450699",
+      "name": "Multi-planning and collaborative project planning ",
+      "font_class": "Multi-planningandcollaborativeprojectplanning",
+      "unicode": "e770",
+      "unicode_decimal": 59248
+    },
+    {
+      "icon_id": "14450700",
+      "name": "shared cases",
+      "font_class": "sharedcases",
+      "unicode": "e771",
+      "unicode_decimal": 59249
+    },
+    {
+      "icon_id": "14450701",
+      "name": "tool platform-management type",
+      "font_class": "toolplatform-managementtype",
+      "unicode": "e772",
+      "unicode_decimal": 59250
+    },
+    {
+      "icon_id": "14450702",
+      "name": "tool platform-efficiency type",
+      "font_class": "toolplatform-efficiencytype",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "14450703",
+      "name": "share and gain",
+      "font_class": "shareandgain",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "14450704",
+      "name": "integrated professional tool platform",
+      "font_class": "integratedprofessionaltoolplatform",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "14450705",
+      "name": "basic professional tool platform",
+      "font_class": "basicprofessionaltoolplatform",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    },
+    {
+      "icon_id": "14450706",
+      "name": "completion joint acceptance tool",
+      "font_class": "completionjointacceptancetool",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "14450707",
+      "name": "tool platform-basic type",
+      "font_class": "toolplatform-basictype",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "14450708",
+      "name": "data-subject information",
+      "font_class": "data-subjectinformation",
+      "unicode": "e779",
+      "unicode_decimal": 59257
+    },
+    {
+      "icon_id": "14450709",
+      "name": "library-practice",
+      "font_class": "library-practice",
+      "unicode": "e77a",
+      "unicode_decimal": 59258
+    },
+    {
+      "icon_id": "14450710",
+      "name": "library-structural components",
+      "font_class": "library-structuralcomponents",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    },
+    {
+      "icon_id": "14450711",
+      "name": "data-government",
+      "font_class": "data-government",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "14450712",
+      "name": "construction project approval management system",
+      "font_class": "constructionprojectapprovalmanagementsystem",
+      "unicode": "e77d",
+      "unicode_decimal": 59261
+    },
+    {
+      "icon_id": "14450713",
+      "name": "library-templates",
+      "font_class": "library-templates",
+      "unicode": "e77e",
+      "unicode_decimal": 59262
+    },
+    {
+      "icon_id": "14450714",
+      "name": "project consultation",
+      "font_class": "projectconsultation",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "14450715",
+      "name": "type-data",
+      "font_class": "type-data",
+      "unicode": "e780",
+      "unicode_decimal": 59264
+    },
+    {
+      "icon_id": "14450716",
+      "name": "library-standard",
+      "font_class": "library-standard",
+      "unicode": "e781",
+      "unicode_decimal": 59265
+    },
+    {
+      "icon_id": "14450717",
+      "name": "library-materials",
+      "font_class": "library-materials",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "14450718",
+      "name": "enterprise consultation",
+      "font_class": "enterpriseconsultation",
+      "unicode": "e783",
+      "unicode_decimal": 59267
+    },
+    {
+      "icon_id": "14450719",
+      "name": "self-own knowledge",
+      "font_class": "self-ownknowledge",
+      "unicode": "e784",
+      "unicode_decimal": 59268
+    },
+    {
+      "icon_id": "14450720",
+      "name": "type-industry application",
+      "font_class": "type-industryapplication",
+      "unicode": "e785",
+      "unicode_decimal": 59269
+    },
+    {
+      "icon_id": "14450721",
+      "name": "phase-review",
+      "font_class": "phase-review",
+      "unicode": "e786",
+      "unicode_decimal": 59270
+    },
+    {
+      "icon_id": "14450722",
+      "name": "quality control",
+      "font_class": "qualitycontrol",
+      "unicode": "e787",
+      "unicode_decimal": 59271
+    },
+    {
+      "icon_id": "14450723",
+      "name": "data management",
+      "font_class": "datamanagement",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "14450724",
+      "name": "phase-design",
+      "font_class": "phase-design",
+      "unicode": "e789",
+      "unicode_decimal": 59273
+    },
+    {
+      "icon_id": "14450725",
+      "name": "phase-approval",
+      "font_class": "phase-approval",
+      "unicode": "e78a",
+      "unicode_decimal": 59274
+    },
+    {
+      "icon_id": "14450726",
+      "name": "library-products",
+      "font_class": "library-products",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "14450727",
+      "name": "model-construction process",
+      "font_class": "model-constructionprocess",
+      "unicode": "e78c",
+      "unicode_decimal": 59276
+    },
+    {
+      "icon_id": "14450728",
+      "name": "project approval",
+      "font_class": "projectapproval",
+      "unicode": "e78d",
+      "unicode_decimal": 59277
+    },
+    {
+      "icon_id": "14450729",
+      "name": "design management",
+      "font_class": "designmanagement",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "14450730",
+      "name": "model-design",
+      "font_class": "model-design",
+      "unicode": "e78f",
+      "unicode_decimal": 59279
+    },
+    {
+      "icon_id": "14450731",
+      "name": "project closed",
+      "font_class": "projectclosed",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "14450732",
+      "name": "data-space planning",
+      "font_class": "data-spaceplanning",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    },
+    {
+      "icon_id": "14450733",
+      "name": "tool platform-special project type",
+      "font_class": "toolplatform-specialprojecttype",
+      "unicode": "e792",
+      "unicode_decimal": 59282
+    },
+    {
+      "icon_id": "14450734",
+      "name": "library-knowledge",
+      "font_class": "library-knowledge",
+      "unicode": "e793",
+      "unicode_decimal": 59283
+    },
+    {
+      "icon_id": "14450735",
+      "name": "joint review tool for construction drawings of con",
+      "font_class": "jointreviewtoolforconstructiondrawingsofcon",
+      "unicode": "e794",
+      "unicode_decimal": 59284
+    },
+    {
+      "icon_id": "14450205",
+      "name": "apps-nav",
+      "font_class": "apps-nav",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "14450736",
+      "name": "standard-building",
+      "font_class": "standard-building",
+      "unicode": "e795",
+      "unicode_decimal": 59285
+    },
+    {
+      "icon_id": "14450206",
+      "name": "home-filled",
+      "font_class": "home-filled",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "14450737",
+      "name": "Urban physical examination evaluation information ",
+      "font_class": "Urbanphysicalexaminationevaluationinformation",
+      "unicode": "e796",
+      "unicode_decimal": 59286
+    },
+    {
+      "icon_id": "14450207",
+      "name": "correspondence management-nav",
+      "font_class": "correspondencemanagement-nav",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "14450738",
+      "name": "data-economic society",
+      "font_class": "data-economicsociety",
+      "unicode": "e797",
+      "unicode_decimal": 59287
+    },
+    {
+      "icon_id": "14450208",
+      "name": "design instruction tool-nav",
+      "font_class": "designinstructiontool-nav",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "14450739",
+      "name": "design knowledge",
+      "font_class": "designknowledge",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "14450209",
+      "name": "enterprise management configuration-nav",
+      "font_class": "enterprisemanagementconfiguration-nav",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "14450740",
+      "name": "type-security",
+      "font_class": "type-security",
+      "unicode": "e799",
+      "unicode_decimal": 59289
+    },
+    {
+      "icon_id": "14450210",
+      "name": "messages-nav",
+      "font_class": "messages-nav",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "14450741",
+      "name": "future implementation plan",
+      "font_class": "futureimplementationplan",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "14450211",
+      "name": "my home-nav",
+      "font_class": "myhome-nav",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "14450742",
+      "name": "type-basic",
+      "font_class": "type-basic",
+      "unicode": "e79b",
+      "unicode_decimal": 59291
+    },
+    {
+      "icon_id": "14450212",
+      "name": "material recipe tool-nav",
+      "font_class": "materialrecipetool-nav",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "14450743",
+      "name": "data-basic geography",
+      "font_class": "data-basicgeography",
+      "unicode": "e79c",
+      "unicode_decimal": 59292
+    },
+    {
+      "icon_id": "14450213",
+      "name": "late cooperation-nav",
+      "font_class": "latecooperation-nav",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "14450744",
+      "name": "type-operation management",
+      "font_class": "type-operationmanagement",
+      "unicode": "e79d",
+      "unicode_decimal": 59293
+    },
+    {
+      "icon_id": "14450214",
+      "name": "customer service-nav",
+      "font_class": "customerservice-nav",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "14450745",
+      "name": "knowledge pack",
+      "font_class": "knowledgepack",
+      "unicode": "e79e",
+      "unicode_decimal": 59294
+    },
+    {
+      "icon_id": "14450215",
+      "name": "contract management-nav",
+      "font_class": "contractmanagement-nav",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "14450746",
+      "name": "construction project planning scheme, planning lic",
+      "font_class": "constructionprojectplanningschemeplanninglic",
+      "unicode": "e79f",
+      "unicode_decimal": 59295
+    },
+    {
+      "icon_id": "14450216",
+      "name": "operational account management-nav",
+      "font_class": "operationalaccountmanagement-nav",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "14450747",
+      "name": "model-as-built",
+      "font_class": "model-as-built",
+      "unicode": "e7a0",
+      "unicode_decimal": 59296
+    },
+    {
+      "icon_id": "14450217",
+      "name": "cost analysis-nav",
+      "font_class": "costanalysis-nav",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "14450748",
+      "name": "policy management regulations",
+      "font_class": "policymanagementregulations",
+      "unicode": "e7a1",
+      "unicode_decimal": 59297
+    },
+    {
+      "icon_id": "14450218",
+      "name": "password management-nav",
+      "font_class": "passwordmanagement-nav",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "14450749",
+      "name": "data-perception",
+      "font_class": "data-perception",
+      "unicode": "e7a2",
+      "unicode_decimal": 59298
+    },
+    {
+      "icon_id": "14450219",
+      "name": "image management-nav",
+      "font_class": "imagemanagement-nav",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "14450750",
+      "name": "standards-approval",
+      "font_class": "standards-approval",
+      "unicode": "e7a3",
+      "unicode_decimal": 59299
+    },
+    {
+      "icon_id": "14450220",
+      "name": "project home-nav",
+      "font_class": "projecthome-nav",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "14450886",
+      "name": "study notes",
+      "font_class": "studynotes",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "14450221",
+      "name": "project items-nav",
+      "font_class": "projectitems-nav",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "14450222",
+      "name": "output value distribution-nav",
+      "font_class": "outputvaluedistribution-nav",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "14450223",
+      "name": "project files management-nav",
+      "font_class": "projectfilesmanagement-nav",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "14450224",
+      "name": "project info-nav",
+      "font_class": "projectinfo-nav",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "14450226",
+      "name": "project summary-nav",
+      "font_class": "projectsummary-nav",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "14450227",
+      "name": "project staffs-nav",
+      "font_class": "projectstaffs-nav",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "14450228",
+      "name": "search-task-nav",
+      "font_class": "search-task-nav",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "14450229",
+      "name": "project archived-nav",
+      "font_class": "projectarchived-nav",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "14450230",
+      "name": "personal info-nav",
+      "font_class": "personalinfo-nav",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "14450231",
+      "name": "my content library-nav",
+      "font_class": "mycontentlibrary-nav",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "14450232",
+      "name": "mechanical and electrical design tool-nav",
+      "font_class": "mechanicalandelectricaldesigntool-nav",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "14450233",
+      "name": "search-project-nav",
+      "font_class": "search-project-nav",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "14450234",
+      "name": "project announcement-nav",
+      "font_class": "projectannouncement-nav",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "14450235",
+      "name": "project files-nav",
+      "font_class": "projectfiles-nav",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "14450236",
+      "name": "to do-nav",
+      "font_class": "todo-nav",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "14450237",
+      "name": "project progress-nav",
+      "font_class": "projectprogress-nav",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "14450238",
+      "name": "project punchlist check-nav",
+      "font_class": "projectpunchlistcheck-nav",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "14450244",
+      "name": "review-sidebar",
+      "font_class": "review-sidebar",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "14450245",
+      "name": "edit-sidebar",
+      "font_class": "edit-sidebar",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "14450246",
+      "name": "calendar-filled",
+      "font_class": "calendar-filled",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "14450247",
+      "name": "view-list",
+      "font_class": "view-list-filled",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "14450248",
+      "name": "view-thumbnail",
+      "font_class": "view-thumbnail-filled",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "14450249",
+      "name": "smart review-sidebar",
+      "font_class": "smartreview-sidebar",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "14450250",
+      "name": "items-sidebar",
+      "font_class": "items-sidebar",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "14450251",
+      "name": "publish-sidebar",
+      "font_class": "publish-sidebar",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "14450252",
+      "name": "view content-sidebar",
+      "font_class": "viewcontent-sidebar",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "14450253",
+      "name": "first view-filled",
+      "font_class": "firstview-filled",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "14450254",
+      "name": "measure-area",
+      "font_class": "measure-area",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "14450255",
+      "name": "layers-filled",
+      "font_class": "layers-filled",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "14450256",
+      "name": "coordinate view-filled",
+      "font_class": "coordinateview-filled",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "14450257",
+      "name": "measure-filled",
+      "font_class": "measure-filled",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "14450258",
+      "name": "section",
+      "font_class": "section",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "14450259",
+      "name": "measure-angle",
+      "font_class": "measure-angle",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "14450260",
+      "name": "measure-volume",
+      "font_class": "measure-volume",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "14450261",
+      "name": "refresh-small",
+      "font_class": "refresh-small",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "14450262",
+      "name": "refresh",
+      "font_class": "refresh",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "14450263",
+      "name": "measure-distance",
+      "font_class": "measure-distance",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "14450264",
+      "name": "weather control-filled",
+      "font_class": "weathercontrol-filled",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "14450265",
+      "name": "configuration",
+      "font_class": "configuration",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "14450266",
+      "name": "bar chart",
+      "font_class": "barchart",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "14450267",
+      "name": "bar chart-filled",
+      "font_class": "barchart-filled",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "14450268",
+      "name": "drawing",
+      "font_class": "drawing",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "14450269",
+      "name": "info-overview",
+      "font_class": "info-overview",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "14450270",
+      "name": "data map-filled",
+      "font_class": "datamap-filled",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "14450271",
+      "name": "info-overview-filled",
+      "font_class": "info-overview-filled",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "14450272",
+      "name": "files",
+      "font_class": "files",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "14450273",
+      "name": "data map",
+      "font_class": "datamap",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "14450274",
+      "name": "legend-filled",
+      "font_class": "legend-filled",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "14450275",
+      "name": "legend",
+      "font_class": "legend",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "14450276",
+      "name": "info-statistics-filled",
+      "font_class": "info-statistics-filled",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "14450277",
+      "name": "layer management",
+      "font_class": "layermanagement",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "14450278",
+      "name": "line chart-filled",
+      "font_class": "linechart-filled",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "14450279",
+      "name": "info-summary-filled",
+      "font_class": "info-summary-filled",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "14450280",
+      "name": "search-filled",
+      "font_class": "search-filled",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "14450281",
+      "name": "line chart",
+      "font_class": "linechart",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "14450282",
+      "name": "info-statistics",
+      "font_class": "info-statistics",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "14450283",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "14450284",
+      "name": "measure",
+      "font_class": "measure",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "14450285",
+      "name": "info-summary",
+      "font_class": "info-summary",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "14450286",
+      "name": "layer management-filled",
+      "font_class": "layermanagement-filled",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "14450287",
+      "name": "split screen",
+      "font_class": "splitscreen",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "14450288",
+      "name": "markup-circle",
+      "font_class": "markup-circle",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "14450289",
+      "name": "markup-arrow",
+      "font_class": "markup-arrow",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "14450290",
+      "name": "markup-rectangle",
+      "font_class": "markup-rectangle",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "14450291",
+      "name": "markup-cloud",
+      "font_class": "markup-cloud",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "14450295",
+      "name": "drawing approval",
+      "font_class": "drawingapproval",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "14450296",
+      "name": "drawing catalog",
+      "font_class": "drawingcatalog",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "14450297",
+      "name": "design instruction tool",
+      "font_class": "designinstructiontool",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "14450298",
+      "name": "drawing review",
+      "font_class": "drawingreview",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "14450299",
+      "name": "drawing catalog planning",
+      "font_class": "drawingcatalogplanning",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "14450310",
+      "name": "approval",
+      "font_class": "approval",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "14450311",
+      "name": "approval log",
+      "font_class": "approvallog",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "14450312",
+      "name": "task confirmation",
+      "font_class": "taskconfirmation",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "14450313",
+      "name": "technical consultation",
+      "font_class": "technicalconsultation",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "14450314",
+      "name": "task node",
+      "font_class": "tasknode",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "14450315",
+      "name": "technical review",
+      "font_class": "technicalreview",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "14450316",
+      "name": "node function",
+      "font_class": "nodefunction",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "14450318",
+      "name": "my department cost account",
+      "font_class": "mydepartmentcostaccount",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "14450319",
+      "name": "items upload",
+      "font_class": "itemsupload",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "14450323",
+      "name": "countdown-indicatorxsmall-filled",
+      "font_class": "countdown-indicatorxsmall-filled",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "14450325",
+      "name": "ongoing-small-filled",
+      "font_class": "ongoing-small-filled",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "14450326",
+      "name": "ongoing-filled",
+      "font_class": "ongoing-filled",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "14450331",
+      "name": "play video-circle-filled",
+      "font_class": "playvideo-circle-filled",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "14450332",
+      "name": "play video-circle",
+      "font_class": "playvideo-circle",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "14450333",
+      "name": "play video",
+      "font_class": "playvideo",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "14450334",
+      "name": "play video-rectangle",
+      "font_class": "playvideo-rectangle",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "14450335",
+      "name": "play audio",
+      "font_class": "playaudio",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "14450337",
+      "name": "course done",
+      "font_class": "coursedone",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "14450338",
+      "name": "course to learn",
+      "font_class": "coursetolearn",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "14450339",
+      "name": "course ongoing learning",
+      "font_class": "courseongoinglearning",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "14450340",
+      "name": "meeting minutes",
+      "font_class": "meetingminutes",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "14450342",
+      "name": "study catalog",
+      "font_class": "studycatalog",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "14450343",
+      "name": "questions",
+      "font_class": "questions",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "14450344",
+      "name": "study tests",
+      "font_class": "studytests",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "14450350",
+      "name": "construction standards library",
+      "font_class": "constructionstandardslibrary",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "14450353",
+      "name": "material recipe tool",
+      "font_class": "materialrecipetool",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "14450372",
+      "name": "corner marker-background",
+      "font_class": "cornermarker-background",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "14450373",
+      "name": "corner marker-solo",
+      "font_class": "cornermarker-solo",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "14450374",
+      "name": "tag-free",
+      "font_class": "tag-free",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "14450375",
+      "name": "corner marker-free",
+      "font_class": "cornermarker-free",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "14450392",
+      "name": "add-circle",
+      "font_class": "add-circle",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "14450393",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "14450394",
+      "name": "add-new item list",
+      "font_class": "add-newitemlist",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "14450395",
+      "name": "add-new staff",
+      "font_class": "add-newstaff",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "14450396",
+      "name": "alert-filled",
+      "font_class": "alert-filled",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "14450398",
+      "name": "arrow-left",
+      "font_class": "arrow-left",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "14450399",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "14450400",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "14450401",
+      "name": "arrow-up",
+      "font_class": "arrow-up",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "14450402",
+      "name": "amount",
+      "font_class": "amount",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "14450403",
+      "name": "area selection",
+      "font_class": "areaselection",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "14450404",
+      "name": "attachments",
+      "font_class": "attachments",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "14450424",
+      "name": "cancel-small-filled",
+      "font_class": "cancel-small-filled",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "14450425",
+      "name": "cancel-filled",
+      "font_class": "cancel-filled",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "14450426",
+      "name": "cancel",
+      "font_class": "cancel",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "14450427",
+      "name": "cancel-small",
+      "font_class": "cancel-small",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "14450434",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "14450435",
+      "name": "clear",
+      "font_class": "clear",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "14450440",
+      "name": "mark location",
+      "font_class": "marklocation",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "14450442",
+      "name": "clear mark position",
+      "font_class": "clearmarkposition",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "14450444",
+      "name": "cloud download-filled",
+      "font_class": "clouddownload-filled",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "14450445",
+      "name": "cloud download",
+      "font_class": "clouddownload",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "14450446",
+      "name": "cloud upload-filled",
+      "font_class": "cloudupload-filled",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "14450447",
+      "name": "cloud upload",
+      "font_class": "cloudupload",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "14450448",
+      "name": "collapse-all",
+      "font_class": "collapse-all",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "14450449",
+      "name": "expand-all",
+      "font_class": "expand-all",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "14450451",
+      "name": "collection-small-filled",
+      "font_class": "collection-small-filled",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "14450452",
+      "name": "collection-filled",
+      "font_class": "collection-filled",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "14450453",
+      "name": "collection-small",
+      "font_class": "collection-small",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    },
+    {
+      "icon_id": "14450455",
+      "name": "collection",
+      "font_class": "collection",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "14450456",
+      "name": "copy",
+      "font_class": "copy",
+      "unicode": "e729",
+      "unicode_decimal": 59177
+    },
+    {
+      "icon_id": "14450457",
+      "name": "date",
+      "font_class": "date",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "14450458",
+      "name": "communication",
+      "font_class": "communication",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "14450459",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e72c",
+      "unicode_decimal": 59180
+    },
+    {
+      "icon_id": "14450461",
+      "name": "download",
+      "font_class": "download",
+      "unicode": "e72d",
+      "unicode_decimal": 59181
+    },
+    {
+      "icon_id": "14450464",
+      "name": "upload",
+      "font_class": "upload",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "14450466",
+      "name": "drag",
+      "font_class": "drag",
+      "unicode": "e72f",
+      "unicode_decimal": 59183
+    }
+  ]
+}
