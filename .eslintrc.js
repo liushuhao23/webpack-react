@@ -4,16 +4,15 @@
  * @Autor: liushuhao
  * @Date: 2021-11-11 15:09:43
  * @LastEditors: liushuhao
- * @LastEditTime: 2022-02-22 22:53:59
+ * @LastEditTime: 2022-04-17 23:37:46
  */
 module.exports = {
     root: true,
     env: {
         node: true
     },
-    extends: ['plugin:vue/vue3-essential', 'eslint:recommended', '@vue/typescript/recommended', '@vue/prettier', '@vue/prettier/@typescript-eslint'],
     parserOptions: {
-        ecmaVersion: 2020
+        ecmaVersion: 2020,
     },
     rules: {
         'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
@@ -31,7 +30,6 @@ module.exports = {
         curly: [2, 'multi-line'],
         'no-undef': 'off',
         'no-sparse-arrays': 0,
-        'vue/comment-directive': 'off',
         semi: [2, 'never']
     }
 }

@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-      "target": "esnext",
+      "target": "es5",
       "module": "esnext",
       "strict": false,
       "jsx": "react",
@@ -9,8 +9,13 @@
       "experimentalDecorators": true,
       "skipLibCheck": true,
       "esModuleInterop": true,
+      "allowJs": true,
       "allowSyntheticDefaultImports": true,
+      "forceConsistentCasingInFileNames": true,
+      "noFallthroughCasesInSwitch": true,
+      "resolveJsonModule": true,
       "sourceMap": true,
+      "isolatedModules": false,
       "baseUrl": ".",
       "types": [
         "node",
@@ -24,7 +29,6 @@
         "esnext",
         "dom",
         "dom.iterable",
-        "scripthost"
       ]
     },
     "include": [
